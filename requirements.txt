@@ -1,0 +1,35 @@
+# Core Deep Learning Framework
+torch>=2.0.0
+torchaudio>=2.0.0
+
+# Transformers and Model Loading
+transformers>=4.30.0
+accelerate>=0.20.0
+
+# Dataset and Data Processing
+datasets>=2.14.0
+soundfile>=0.12.1
+librosa>=0.10.0
+
+# Machine Learning and Metrics
+numpy>=1.24.0
+scikit-learn>=1.3.0
+evaluate>=0.4.0
+
+# Utilities
+tqdm>=4.65.0
+pandas>=2.0.0
+
+# Audio Processing Dependencies
+audioread>=3.0.0
+scipy>=1.10.0
+
+# For reproducibility and deterministic behavior
+safetensors>=0.3.0
+
+# Optional but recommended for performance
+numba>=0.57.0
+
+# For CMA-ES optimization (used in FOA method)
+cma>=3.3.0
+
