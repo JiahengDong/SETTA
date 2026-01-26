@@ -123,12 +123,14 @@ Results are also saved to the console with detailed per-class metrics.
 If you use this code in your research, please cite our paper:
 
 ```bibtex
-@inproceedings{yourname2026tta,
-  title={Test-Time Adaptation Methods for Speech Emotion Recognition},
-  author={Your Name and Co-authors},
-  booktitle={IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
-  year={2026},
-  organization={IEEE}
+@misc{dong2026testtimeadaptationspeechemotion,
+      title={Test-Time Adaptation for Speech Emotion Recognition}, 
+      author={Jiaheng Dong and Hong Jia and Ting Dang},
+      year={2026},
+      eprint={2601.16240},
+      archivePrefix={arXiv},
+      primaryClass={eess.AS},
+      url={https://arxiv.org/abs/2601.16240}, 
 }
 ```
 
